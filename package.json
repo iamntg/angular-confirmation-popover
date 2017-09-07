@@ -43,13 +43,14 @@
   },
   "homepage": "https://github.com/mattlewis92/angular-confirmation-popover#readme",
   "devDependencies": {
-    "@angular/common": "^4.0.0",
-    "@angular/compiler": "^4.0.0",
-    "@angular/compiler-cli": "^4.0.0",
-    "@angular/core": "^4.0.0",
-    "@angular/forms": "^4.0.0",
-    "@angular/platform-browser": "^4.0.0",
-    "@angular/platform-browser-dynamic": "^4.0.0",
+    "@angular/common": "^2.4.0",
+    "@angular/compiler": "^2.4.0",
+    "@angular/core": "^2.4.0",
+    "@angular/forms": "^2.4.0",
+    "@angular/http": "^2.4.0",
+    "@angular/platform-browser": "^2.4.0",
+    "@angular/platform-browser-dynamic": "^2.4.0",
+    "@angular/router": "^3.4.0",
     "@compodoc/compodoc": "^1.0.0-beta.8",
     "@types/chai": "^4.0.0",
     "@types/chai-dom": "0.0.5",
@@ -92,8 +93,8 @@
     "zone.js": "^0.8.5"
   },
   "peerDependencies": {
-    "@angular/common": "^4.0.0",
-    "@angular/core": "^4.0.0"
+    "@angular/common": "^2.4.0",
+    "@angular/core": "^2.4.0"
   },
   "files": [
     "dist"
